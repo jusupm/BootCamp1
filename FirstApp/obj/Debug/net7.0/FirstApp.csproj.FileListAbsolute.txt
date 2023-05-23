@@ -1,0 +1,15 @@
+/Users/korisnik/Projects/FirstApp/FirstApp/bin/Debug/net7.0/FirstApp
+/Users/korisnik/Projects/FirstApp/FirstApp/bin/Debug/net7.0/FirstApp.deps.json
+/Users/korisnik/Projects/FirstApp/FirstApp/bin/Debug/net7.0/FirstApp.runtimeconfig.json
+/Users/korisnik/Projects/FirstApp/FirstApp/bin/Debug/net7.0/FirstApp.dll
+/Users/korisnik/Projects/FirstApp/FirstApp/bin/Debug/net7.0/FirstApp.pdb
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/FirstApp.csproj.AssemblyReference.cache
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/FirstApp.AssemblyInfoInputs.cache
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/FirstApp.AssemblyInfo.cs
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/FirstApp.csproj.CoreCompileInputs.cache
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/FirstApp.dll
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/refint/FirstApp.dll
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/FirstApp.pdb
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/FirstApp.genruntimeconfig.cache
+/Users/korisnik/Projects/FirstApp/FirstApp/obj/Debug/net7.0/ref/FirstApp.dll
